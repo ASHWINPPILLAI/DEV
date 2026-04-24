@@ -10,3 +10,6 @@
 [submodule "cil6"]
 	path = cil6
 	url = https://github.com/Aswin7111/cil6.git
+[submodule "cil7"]
+	path = cil7
+	url = https://github.com/Aswin7111/cil7.git
