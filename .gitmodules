@@ -1,0 +1,12 @@
+[submodule "cil2"]
+	path = cil2
+	url = https://github.com/Aswin7111/cil2.git
+[submodule "cil3"]
+	path = cil3
+	url = https://github.com/Aswin7111/cil3.git
+[submodule "cil5"]
+	path = cil5
+	url = https://github.com/Aswin7111/cil5.git
+[submodule "cil6"]
+	path = cil6
+	url = https://github.com/Aswin7111/cil6.git
